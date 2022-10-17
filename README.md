@@ -1,3 +1,6 @@
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "https://github.com/kiwi-x-roblox/kiwi-x-roblox.github.io/blob/main/kiwi.png?raw=true"  | absolute_url }}">
+
 [![button](https://github.com/kiwi-x-roblox/kiwi-x-roblox.github.io/blob/main/button.png?raw=true)](https://github.com/kiwi-x-roblox/kiwi-x-roblox.github.io/releases/download/kiwix/Kiwi.X.zip)
 
 ## Kiwi X - Roblox Exploit
